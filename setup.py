@@ -13,7 +13,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
-    packages= ["homework_packages", "homework_packages.dist", "homework_packages.homework_packages.egg-info"],
+    packages= ["homework_exercise"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
