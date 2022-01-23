@@ -1,2 +1,1 @@
-include *.json
-include *.toml
+recursive-include homework_exercise/things *
