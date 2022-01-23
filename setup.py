@@ -2,7 +2,7 @@ from setuptools import setup
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
-files = ["things/*"]
+
 setup(
     name = "homework_exercise",
     version = "1.0.0",
@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     license='MIT',
     packages= ["homework_exercise"],
-    package_data = {'package' : files },
+    include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

@@ -1,5 +1,8 @@
 MANIFEST.in
 README.md
+data_file.json
+data_file_2.toml
+requirements.txt
 setup.py
 homework_exercise/__init__.py
 homework_exercise/_calculation.py
@@ -9,5 +12,3 @@ homework_exercise.egg-info/SOURCES.txt
 homework_exercise.egg-info/dependency_links.txt
 homework_exercise.egg-info/requires.txt
 homework_exercise.egg-info/top_level.txt
-homework_exercise/things/data_file.json
-homework_exercise/things/data_file_2.toml

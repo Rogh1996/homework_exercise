@@ -1,1 +1,5 @@
-recursive-include homework_exercise/things *
+include requirements.txt
+include data_file.json
+include data_file_2.toml
+include LICENSE.txt
+include README.md
