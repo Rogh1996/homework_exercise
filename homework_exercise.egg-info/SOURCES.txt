@@ -1,0 +1,7 @@
+README.md
+setup.py
+homework_exercise.egg-info/PKG-INFO
+homework_exercise.egg-info/SOURCES.txt
+homework_exercise.egg-info/dependency_links.txt
+homework_exercise.egg-info/requires.txt
+homework_exercise.egg-info/top_level.txt
