@@ -14,6 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     license='MIT',
     packages= ["homework_exercise"],
+    package_data={"homework_exercise": ["requirements.txt", "data_file.json", "data_file_2.toml", "LICENSE.txt", "README.md"]},
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -1,8 +1,4 @@
-MANIFEST.in
 README.md
-data_file.json
-data_file_2.toml
-requirements.txt
 setup.py
 homework_exercise/__init__.py
 homework_exercise/_calculation.py
